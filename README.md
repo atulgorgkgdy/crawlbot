@@ -30,7 +30,7 @@ user@example:~./crawlbot.sh google.com
 * [Nithin M]( https://github.com/nithin62 )
 * [Angel Mariya]( https://github.com/mariyaangel )
 * [Ranjith]( https://github.com/hackerPPi )
-* [Ryan Roy Joseph]( https://github.com/RyanRoy626 )
+* [Ryan Roy Joseph.]( https://github.com/RyanRoy626 )
 * [Mithin Kuttan]( https://github.com/mithinkuttan )
 * [Athul George]( https://github.com/atulgorgkgdy)
 * [Shyam S]( https://github.com/shyams47 )  
